@@ -37,8 +37,6 @@ body {
     overflow-x: auto;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2&family=Calligraffitti&display=swap');
-
 .title-text {
     font-family: 'Calligraffitti', cursive;
     font-weight: 700;
